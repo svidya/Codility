@@ -1,0 +1,7 @@
+F:\Practice\Basic C#\Codility\Codility\CodilityTestProject\bin\Debug\CodilityTestProject.dll
+F:\Practice\Basic C#\Codility\Codility\CodilityTestProject\bin\Debug\CodilityTestProject.pdb
+F:\Practice\Basic C#\Codility\Codility\CodilityTestProject\obj\Debug\CodilityTestProject.csprojResolveAssemblyReference.cache
+F:\Practice\Basic C#\Codility\Codility\CodilityTestProject\obj\Debug\CodilityTestProject.dll
+F:\Practice\Basic C#\Codility\Codility\CodilityTestProject\obj\Debug\CodilityTestProject.pdb
+F:\Practice\Basic C#\Codility\Codility\CodilityTestProject\bin\Debug\Codility.exe
+F:\Practice\Basic C#\Codility\Codility\CodilityTestProject\bin\Debug\Codility.pdb

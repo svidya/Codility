@@ -1,0 +1,5 @@
+F:\Practice\Basic C#\Codility\Codility\CodilityClassLibrary\bin\Debug\CodilityClassLibrary.dll
+F:\Practice\Basic C#\Codility\Codility\CodilityClassLibrary\bin\Debug\CodilityClassLibrary.pdb
+F:\Practice\Basic C#\Codility\Codility\CodilityClassLibrary\obj\Debug\CodilityClassLibrary.csprojResolveAssemblyReference.cache
+F:\Practice\Basic C#\Codility\Codility\CodilityClassLibrary\obj\Debug\CodilityClassLibrary.dll
+F:\Practice\Basic C#\Codility\Codility\CodilityClassLibrary\obj\Debug\CodilityClassLibrary.pdb
